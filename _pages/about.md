@@ -1,25 +1,26 @@
 ---
 layout: about
-title: about
+title: MAIN
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Champaign, IL 61820</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
+latest_posts: false
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Dawei Xiong, but you can call me David. I am a first-year Master of Computer Science student at the University of Illinois at Urbana-Champaign, which is also where I completed my Bachelor's degree in Computer Science with a minor in Electrical and Computer Engineering (ECE), focusing on the Electrical Engineering track.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Since September 2022, I have been involved in undergraduate research at ARCANA, where I have worked on several projects. These include designing the RACER simulator, integrating it with the Structural Simulation Toolkit (SST), and completing my senior thesis on the reliability issues in Process-Using-Memory systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focus is on Computer Architecture, speficially on Process-Using-Memory using DRAM. I am open to other research projects of related fields.
+
+In my spare time, I have a wide range of hobbies including motorsports(AutoCross) with my Elantra N. Big Fan of Formula1 supporting the Stake Sauber team https://www.formula1.com/en/teams/Kick-Sauber.html. I do like trading & investment and I do like option trading. Contact me if you like to share about your portfolio and your trading strategies. My girlfriend Jasmine and I have a pet hamster called Piler (because he likes to pile the bedding up all over him).
