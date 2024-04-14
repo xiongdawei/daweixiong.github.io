@@ -9,12 +9,15 @@ profile:
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Champaign, IL 61820</p>
+    <p>Shot in Bahamas, March 2024</p>
+    <p>Current Address: Champaign, IL</p>
 
-news: true # includes a list of news items
+projects: true
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 latest_posts: false
 social: true # includes social icons at the bottom of the page
+
 ---
 
 My name is Dawei Xiong, but you can call me David. I am a first-year Master of Computer Science student at the University of Illinois at Urbana-Champaign, which is also where I completed my Bachelor's degree in Computer Science with a minor in Electrical and Computer Engineering (ECE), focusing on the Electrical Engineering track.
