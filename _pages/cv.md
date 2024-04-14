@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: DaweiXiong_Resume.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: For my most updated CV, please refer to the pdf file on the top right.
 toc:
   sidebar: left
 ---
