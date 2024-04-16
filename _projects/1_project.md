@@ -4,7 +4,7 @@ title: 32 BitSlice RISC-V CPU
 description: 
 img: assets/img/risvcpu.jpg
 importance: 1
-category: academic
+category: Academic
 related_publications: false
 ---
 
